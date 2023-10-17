@@ -13,6 +13,8 @@ public class Fungsi {
         NamaKu.Indah("Rizky");
         NamaKu.Indah("Ramdan");
         hasil.printNama(" ini beda index ");
+        hasil.printNama(" ini GIT Add ");
+
         tambah(x,y);
         tambah(x,z);
         tambah(y,z);
